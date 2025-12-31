@@ -1,0 +1,7 @@
+{
+  "name": "Visionary AI - Image Studio",
+  "description": "A professional-grade image generation studio using Gemini 2.5 Flash Image. Includes a built-in guide on how to publish and deploy your own AI apps correctly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
